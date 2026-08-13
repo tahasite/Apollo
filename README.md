@@ -76,14 +76,14 @@
 <div align="center">
 
 ### 🖥️ Windows Version
-<img src="docs/screenshots/windows_dashboard.png" width="80%"/>
+<img src="https://github.com/tahasite/Apollo/blob/main/docs/screenshots/win.PNG" width="80%"/>
 
 ### 📱 Android Version
 <table>
 <tr>
-<td><img src="docs/screenshots/mobile_splash.png" width="200"/></td>
-<td><img src="docs/screenshots/mobile_dashboard.png" width="200"/></td>
-<td><img src="docs/screenshots/mobile_settings.png" width="200"/></td>
+<td><img src="https://github.com/tahasite/Apollo/blob/main/docs/screenshots/mb1.png" width="200"/></td>
+<td><img src="https://github.com/tahasite/Apollo/blob/main/docs/screenshots/mb4.png" width="200"/></td>
+<td><img src="https://github.com/tahasite/Apollo/blob/main/docs/screenshots/mb2.png" width="200"/></td>
 </tr>
 <tr>
 <td align="center">Splash Screen</td>
@@ -104,7 +104,7 @@ Download the latest installer from [**Releases**](../../releases/latest):
 
 | File | Description | Size |
 |------|-------------|------|
-| `Apollo_Setup_2.0.0.exe` | Full installer with all dependencies | ~150 MB |
+| `Apollo_Setup_2.0.0.exe` | Full installer with all dependencies | ~110 MB |
 
 **System Requirements:**
 - Windows 10 or 11 (64-bit)
@@ -118,9 +118,8 @@ Download the APK from [**Releases**](../../releases/latest):
 
 | File | Best For | Size |
 |------|----------|------|
-| `apollo-arm64-v8a.apk` | Modern devices (recommended) | ~40 MB |
-| `apollo-armeabi-v7a.apk` | Older 32-bit devices | ~35 MB |
-| `apollo-x86_64.apk` | Emulators | ~45 MB |
+| `Apollo-v2.0.0-android-app-release.apk` | ALL (recommended) | ~51 MB |
+| `Apollo-v2.0.0-android-app-debug.apk` | Test | ~177 MB |
 
 **System Requirements:**
 - Android 7.0 (API 24) or higher
@@ -143,7 +142,7 @@ Download the APK from [**Releases**](../../releases/latest):
 
 ### Android Installation
 
-1. **Download** `apollo-arm64-v8a.apk` from Releases
+1. **Download** `Apollo-v2.0.0-android-app-release.apk` from Releases
 2. **Enable** "Install from unknown sources" in Android settings
 3. **Open** the downloaded APK file
 4. **Install** and grant necessary permissions
@@ -188,7 +187,7 @@ You can skip steps and configure them later from Settings.
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/apollo.git
+git clone https://github.com/tahasite/apollo.git
 cd apollo/windows
 ```
 
@@ -695,7 +694,7 @@ Special thanks to:
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <a href="../../graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YOUR-USERNAME/apollo" />
+  <img src="https://contrib.rocks/image?repo=tahasite/apollo" />
 </a>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
@@ -707,16 +706,16 @@ Thanks to all our amazing contributors! 🎉
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/apollo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR-USERNAME/apollo?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YOUR-USERNAME/apollo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/tahasite/apollo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tahasite/apollo?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/tahasite/apollo?style=social)
 
-![GitHub issues](https://img.shields.io/github/issues/YOUR-USERNAME/apollo)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YOUR-USERNAME/apollo)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR-USERNAME/apollo)
+![GitHub issues](https://img.shields.io/github/issues/tahasite/apollo)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/tahasite/apollo)
+![GitHub last commit](https://img.shields.io/github/last-commit/tahasite/apollo)
 
-![GitHub downloads](https://img.shields.io/github/downloads/YOUR-USERNAME/apollo/total)
-![GitHub release](https://img.shields.io/github/v/release/YOUR-USERNAME/apollo)
+![GitHub downloads](https://img.shields.io/github/downloads/tahasite/apollo/total)
+![GitHub release](https://img.shields.io/github/v/release/tahasite/apollo)
 
 </div>
 
