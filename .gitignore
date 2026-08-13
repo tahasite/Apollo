@@ -1,0 +1,96 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+venv311/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec.bak
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+android/app/debug
+android/app/profile
+android/app/release
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/upload-keystore.jks
+android/app/google-services.json
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+ios/GoogleService-Info.plist
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sensitive Files (VERY IMPORTANT!)
+config.json
+tokens/
+youtube_client_secret.json
+*.env
+.env
+api.txt
+red.txt
+.setup_complete
+smart_video_editor.db
+startup_error.log
+apollo_config.json
+apollo_projects.db
+
+# Large Binaries
+ffmpeg.exe
+cloudflared.exe
+*.mp4
+*.mkv
+*.avi
+
+# Installers (should go to Releases)
+Apollo_Setup_*.exe
+installer_output/
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Temporary
+temp_*
+*.tmp
