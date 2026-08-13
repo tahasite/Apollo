@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="apollo.ico" width="120" alt="Apollo Logo"/>
+<img src="https://github.com/tahasite/Apollo/blob/main/Apollo.ico" width="120" alt="Apollo Logo"/>
 
 # 🎬 Apollo
 
